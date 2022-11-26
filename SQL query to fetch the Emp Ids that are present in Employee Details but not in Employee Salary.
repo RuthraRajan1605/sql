@@ -1,0 +1,4 @@
+SELECT EmpId FROM 
+EmployeeDetails 
+where EmpId Not IN 
+(SELECT EmpId FROM EmployeeSalary);
