@@ -1,0 +1,2 @@
+SELECT REPLACE(FullName, ' ', '-') 
+FROM EmployeeDetails;
