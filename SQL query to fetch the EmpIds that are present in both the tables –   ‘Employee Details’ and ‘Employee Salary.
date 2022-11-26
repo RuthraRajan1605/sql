@@ -1,0 +1,4 @@
+SELECT EmpId FROM 
+EmployeeDetails 
+where EmpId IN 
+(SELECT EmpId FROM EmployeeSalary);
