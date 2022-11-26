@@ -1,0 +1,2 @@
+SELECT INSTR(FullName, 'Snow')
+FROM EmployeeDetails;
