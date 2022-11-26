@@ -1,0 +1,2 @@
+SELECT SUBSTRING(FullName, 1, CHARINDEX(' ',FullName)) 
+FROM EmployeeDetails;
