@@ -1,0 +1,3 @@
+SELECT EmpId,
+Salary+Variable as TotalSalary 
+FROM EmployeeSalary;
