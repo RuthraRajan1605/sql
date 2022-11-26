@@ -1,0 +1,2 @@
+CREATE TABLE NewTable 
+SELECT * FROM EmployeeSalary where 1=0;
