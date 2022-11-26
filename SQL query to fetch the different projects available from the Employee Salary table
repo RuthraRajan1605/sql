@@ -1,0 +1,2 @@
+SELECT DISTINCT(Project)
+FROM EmployeeSalary;
