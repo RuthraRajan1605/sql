@@ -1,0 +1,3 @@
+SELECT EmpId, City, ManagerId
+FROM EmployeeDetails
+WHERE City='Toronto' AND ManagerId='321';
